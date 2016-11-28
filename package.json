@@ -1,0 +1,14 @@
+{
+  "name": "creative-forest",
+  "public": false,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node node_modules/vvv/test.js",
+  },
+  "devDependencies": {
+    "vvv": "ericvicenti/vvv"
+  },
+  "verse": {
+    "version": "1.0.0"
+  }
+}
